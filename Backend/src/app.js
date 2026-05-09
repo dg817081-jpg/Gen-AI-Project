@@ -8,7 +8,7 @@ app.use(express.json())
 app.use(cookieParser())
 
 app.use(cors({
-    origin: "https://gen-ai-project-5-ela6.onrender.com",
+    origin: "https://gen-ai-project-7-7bhc.onrender.com",
     credentials: true
 }))
 
